@@ -1,1 +1,1 @@
-inventory changer
+inventory changer, have some problems
